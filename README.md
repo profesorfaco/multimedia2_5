@@ -1,4 +1,4 @@
-Diseño Gráfico · Universidad de Chile
+Diseño Gráfico ·  Universidad de Chile
 
 # Multimedia II
 
