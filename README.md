@@ -1,5 +1,8 @@
-# multimedia2_3
-multimedia2_3
+Diseño Gráfico · Universidad de Chile
+
+# Multimedia II
+
+### Javascript y JSON
 
 - - - - - 
 
