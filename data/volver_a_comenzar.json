@@ -1,0 +1,16 @@
+{
+	"errores": {
+		"menores": [
+			["herida", "herida", "herida"],
+			["fracaso", "fracaso", "fracaso"],
+			["desamor", "desamor", "desamor"],
+			["mentira", "mentira", "mentira"]
+		],
+		"peores": [
+			["herida", "herida", "herida"],
+			["fracaso", "fracaso", "fracaso"],
+			["desamor", "desamor", "desamor"],
+			["mentira", "mentira", "mentira"]
+		]
+	}
+}
