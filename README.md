@@ -64,4 +64,4 @@ Cuando [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) 
 
 - - - - - 
 
-[Clase anterior](https://github.com/profesorfaco/multimedia2_2) | [Siguiente clase](https://github.com/profesorfaco/multimedia2_4)
+[Clase anterior](https://github.com/profesorfaco/multimedia2_4) | [Siguiente clase](https://github.com/profesorfaco/multimedia2_6)
