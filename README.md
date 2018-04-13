@@ -21,16 +21,16 @@ En JSON, podría escribir mi listado así:
 {
 	"errores": {
 		"menores": [
-			["herida", "herida", "herida"],
-			["fracaso", "fracaso", "fracaso"],
-			["desamor", "desamor", "desamor"],
-			["mentira", "mentira", "mentira"]
+			["la herida, detallada", "la herida, detallada"],
+			["el fracaso, detallado", "el fracaso, detallado""],
+			["el desamor, detallado", "el desamor, detallado"],
+			["la mentira, detallada", "la mentira, detallada"]
 		],
 		"peores": [
-			["herida", "herida", "herida"],
-			["fracaso", "fracaso", "fracaso"],
-			["desamor", "desamor", "desamor"],
-			["mentira", "mentira", "mentira"]
+			["la herida, detallada", "la herida, detallada"],
+			["el fracaso, detallado", "el fracaso, detallado""],
+			["el desamor, detallado", "el desamor, detallado"],
+			["la mentira, detallada", "la mentira, detallada"]
 		]
 	}
 }
@@ -39,16 +39,19 @@ En JSON, podría escribir mi listado así:
 En CSV, podría escribirlo así: 
 
 ```
-error, gravedad, clase
-"El error, bien detallado",1,herida
-"El error, bien detallado",1,fracaso
-"El error, bien detallado",1,desamor
-"El error, bien detallado",1,mentira
-"El error, bien detallado",2,herida
-"El error, bien detallado",2,fracaso
-"El error, bien detallado",2,desamor
-"El error, bien detallado",2,mentira
-…
+error, grave, clase
+"El error, detallado",false,herida
+"El error, detallado",false,herida
+"El error, detallado",false,fracaso
+"El error, detallado",false,fracaso
+"El error, detallado",false,desamor
+"El error, detallado",false,desamor
+"El error, detallado",true,herida
+"El error, detallado",true,herida
+"El error, detallado",true,fracaso
+"El error, detallado",true,fracaso
+"El error, detallado",true,desamor
+"El error, detallado",true,desamor
 ```
 
 [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas) es la simplificación de una hoja de cálculo, en donde encontrarían datos en filas y columnas. En CSV, cada coma representa el fin de una columna y los saltos de línea son las filas.
