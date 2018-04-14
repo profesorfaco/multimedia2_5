@@ -64,7 +64,7 @@ error, grave, clase
 
 Cuando lo programado en [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) se ejecuta, no modifica directamente el código fuente de la página web sino que el [DOM](https://es.wikipedia.org/wiki/Document_Object_Model) de la misma. Uno puede seguirle la pista a esta ejecución mediante la [Consola de JavaScript](https://transferwise.com/es/help/article/2247654/tecnico-navegador/como-abrir-la-consola-de-tu-navegador) que incluyen los navegadores.
 
-JavaScript ofrece objetos como [Date](https://www.w3schools.com/jsref/jsref_obj_date.asp) y [Math](https://www.w3schools.com/jsref/jsref_obj_math.asp), además de operadores, estructuras de control, y sentencias. Entre todo esto, examinaremos lo que sea justo y necesario para trabajar con datos. 
+JavaScript ofrece objetos como [Date](https://www.w3schools.com/jsref/jsref_obj_date.asp) y [Math](https://www.w3schools.com/jsref/jsref_obj_math.asp), además de operadores, estructuras de control, y [sentencias](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Control_de_flujo_y_manejo_de_errores#if...else_statement). Entre todo esto, examinaremos lo que sea justo y necesario para trabajar con datos. 
 
 Para partir, revisemos las variables en JavaScript; en programación, una variable está formada por un espacio en el sistema de almacenaje (memoria principal del computador) y un identificador asociado a dicho espacio. Este espacio contendrá una cantidad conocida o desconocida de datos, que pueden ir variando en la medida que el programa se ejecuta (y esta es la razón del nombre).
 
