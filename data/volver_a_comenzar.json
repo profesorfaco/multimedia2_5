@@ -1,40 +1,82 @@
-{
-   "errores":{
-      "menores":{
-         "heridas":[
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-            "Sed eget elit ut enim cursus iaculis"
-         ],
-         "fracasos":[
-            "Donec at ipsum eu ante pretium lacinia",
-            "Nunc efficitur libero placerat fringilla facilisis"
-         ],
-         "desamores":[
-            "Fusce maximus dui eu rutrum iaculis",
-            "Quisque in risus non sem sagittis hendrerit"
-         ],
-         "mentiras":[
-            "Phasellus pharetra orci in maximus semper",
-            "Aliquam gravida tellus vel efficitur pulvinar"
-         ]
-      },
-      "peores":{
-         "heridas":[
-            "Mauris pharetra tortor eget molestie feugiat",
-            "In non sapien eu augue porta malesuada"
-         ],
-         "fracasos":[
-            "In feugiat lacus eu mauris venenatis vulputate",
-            "Ut imperdiet nisl non eros pulvinar molestie"
-         ],
-         "desamores":[
-            "Nam fringilla mauris maximus convallis faucibus",
-            "Duis gravida sapien nec auctor bibendum"
-         ],
-         "mentiras":[
-            "Cras tincidunt mauris quis tempor consequat",
-            "Etiam euismod dui at euismod pharetra"
-         ]
-      }
+[
+   {
+      "error":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "grave":0,
+      "clase":"herida"
+   },
+   {
+      "error":"Sed eget elit ut enim cursus iaculis",
+      "grave":0,
+      "clase":"herida"
+   },
+   {
+      "error":"Donec at ipsum eu ante pretium lacinia",
+      "grave":0,
+      "clase":"fracaso"
+   },
+   {
+      "error":"Nunc efficitur libero placerat fringilla facilisis",
+      "grave":0,
+      "clase":"fracaso"
+   },
+   {
+      "error":"Fusce maximus dui eu rutrum iaculis",
+      "grave":0,
+      "clase":"desamor"
+   },
+   {
+      "error":"Quisque in risus non sem sagittis hendrerit",
+      "grave":0,
+      "clase":"desamor"
+   },
+   {
+      "error":"Phasellus pharetra orci in maximus semper",
+      "grave":0,
+      "clase":"mentira"
+   },
+   {
+      "error":"Aliquam gravida tellus vel efficitur pulvinar",
+      "grave":0,
+      "clase":"mentira"
+   },
+   {
+      "error":"Mauris pharetra tortor eget molestie feugiat",
+      "grave":1,
+      "clase":"herida"
+   },
+   {
+      "error":"In non sapien eu augue porta malesuada",
+      "grave":1,
+      "clase":"herida"
+   },
+   {
+      "error":"In feugiat lacus eu mauris venenatis vulputate",
+      "grave":1,
+      "clase":"fracaso"
+   },
+   {
+      "error":"Ut imperdiet nisl non eros pulvinar molestie",
+      "grave":1,
+      "clase":"fracaso"
+   },
+   {
+      "error":"Nam fringilla mauris maximus convallis faucibus",
+      "grave":1,
+      "clase":"desamor"
+   },
+   {
+      "error":"Duis gravida sapien nec auctor bibendum",
+      "grave":1,
+      "clase":"desamor"
+   },
+   {
+      "error":"Cras tincidunt mauris quis tempor consequat",
+      "grave":1,
+      "clase":"mentira"
+   },
+   {
+      "error":"Etiam euismod dui at euismod pharetra",
+      "grave":1,
+      "clase":"mentira"
    }
-}
+]
