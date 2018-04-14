@@ -1,9 +1,13 @@
-error, gravedad, clase
-"El error, bien detallado",1,herida
-"El error, bien detallado",1,fracaso
-"El error, bien detallado",1,desamor
-"El error, bien detallado",1,mentira
-"El error, bien detallado",2,herida
-"El error, bien detallado",2,fracaso
-"El error, bien detallado",2,desamor
-"El error, bien detallado",2,mentira
+error, grave, clase
+"El error, detallado",false,herida
+"El error, detallado",false,herida
+"El error, detallado",false,fracaso
+"El error, detallado",false,fracaso
+"El error, detallado",false,desamor
+"El error, detallado",false,desamor
+"El error, detallado",true,herida
+"El error, detallado",true,herida
+"El error, detallado",true,fracaso
+"El error, detallado",true,fracaso
+"El error, detallado",true,desamor
+"El error, detallado",true,desamor
