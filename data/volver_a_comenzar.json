@@ -1,16 +1,1 @@
-{
-	"errores": {
-		"menores": [
-			["herida", "herida", "herida"],
-			["fracaso", "fracaso", "fracaso"],
-			["desamor", "desamor", "desamor"],
-			["mentira", "mentira", "mentira"]
-		],
-		"peores": [
-			["herida", "herida", "herida"],
-			["fracaso", "fracaso", "fracaso"],
-			["desamor", "desamor", "desamor"],
-			["mentira", "mentira", "mentira"]
-		]
-	}
-}
+{"errores":{"menores":[["Lorem ipsum dolor sit amet, consectetur adipiscing elit","Sed eget elit ut enim cursus iaculis"],["Donec at ipsum eu ante pretium lacinia","Nunc efficitur libero placerat fringilla facilisis"],["Fusce maximus dui eu rutrum iaculis","Quisque in risus non sem sagittis hendrerit"],["Phasellus pharetra orci in maximus semper","Aliquam gravida tellus vel efficitur pulvinar"]],"peores":[["Fusce tincidunt ligula sit amet euismod maximus","In non sapien eu augue porta malesuada"],["Fusce et metus et nisl efficitur pellentesque id ut mi","Ut imperdiet nisl non eros pulvinar molestie"],["Nam fringilla mauris maximus convallis faucibus","Duis gravida sapien nec auctor bibendum"],["Cras tincidunt mauris quis tempor consequat","Etiam euismod dui at euismod pharetra"]]}}
