@@ -1,13 +1,17 @@
 error, grave, clase
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit",false,herida
-"Sed in urna quis mauris gravida suscipit",false,herida
-"Donec at ipsum eu ante pretium lacinia",false,fracaso
-"Praesent a risus cursus, consequat felis nec, congue felis",false,fracaso
-"Fusce maximus dui eu rutrum iaculis",false,desamor
-"Quisque in risus non sem sagittis hendrerit",false,desamor
-"Fusce et metus et nisl efficitur pellentesque id ut mi",true,herida
-"Ut imperdiet nisl non eros pulvinar molestie",true,herida
-"Aliquam sit amet lorem vel est varius egestas in id tortor, detallado",true,fracaso
-"Duis gravida sapien nec auctor bibendum",true,fracaso
-"Cras tincidunt mauris quis tempor consequat",true,desamor
-"Etiam euismod dui at euismod pharetra",true,desamor
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit",false,heridas
+"Sed eget elit ut enim cursus iaculis",false,heridas
+"Donec at ipsum eu ante pretium lacinia",false,fracasos
+"Nunc efficitur libero placerat fringilla facilisis",false,fracasos
+"Fusce maximus dui eu rutrum iaculis",false,desamores
+"Quisque in risus non sem sagittis hendrerit",false,desamores
+"Phasellus pharetra orci in maximus semper",false,mentiras
+"Aliquam gravida tellus vel efficitur pulvinar",false,mentiras
+"Mauris pharetra tortor eget molestie feugiat",true,heridas
+"In non sapien eu augue porta malesuada",true,heridas
+"In feugiat lacus eu mauris venenatis vulputate",true,fracasos
+"Ut imperdiet nisl non eros pulvinar molestie",true,fracasos
+"Nam fringilla mauris maximus convallis faucibus",true,desamores
+"Duis gravida sapien nec auctor bibendum",true,desamores
+"Cras tincidunt mauris quis tempor consequat",false,mentiras
+"Etiam euismod dui at euismod pharetra",false,mentiras
