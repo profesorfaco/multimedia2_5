@@ -1,13 +1,13 @@
 error, grave, clase
-"El error, detallado",false,herida
-"El error, detallado",false,herida
-"El error, detallado",false,fracaso
-"El error, detallado",false,fracaso
-"El error, detallado",false,desamor
-"El error, detallado",false,desamor
-"El error, detallado",true,herida
-"El error, detallado",true,herida
-"El error, detallado",true,fracaso
-"El error, detallado",true,fracaso
-"El error, detallado",true,desamor
-"El error, detallado",true,desamor
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit",false,herida
+"Sed in urna quis mauris gravida suscipit",false,herida
+"Donec at ipsum eu ante pretium lacinia",false,fracaso
+"Praesent a risus cursus, consequat felis nec, congue felis",false,fracaso
+"Fusce maximus dui eu rutrum iaculis",false,desamor
+"Quisque in risus non sem sagittis hendrerit",false,desamor
+"Fusce et metus et nisl efficitur pellentesque id ut mi",true,herida
+"Ut imperdiet nisl non eros pulvinar molestie",true,herida
+"Aliquam sit amet lorem vel est varius egestas in id tortor, detallado",true,fracaso
+"Duis gravida sapien nec auctor bibendum",true,fracaso
+"Cras tincidunt mauris quis tempor consequat",true,desamor
+"Etiam euismod dui at euismod pharetra",true,desamor
