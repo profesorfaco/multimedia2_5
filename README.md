@@ -64,11 +64,13 @@ error, grave, clase
 
 Cuando lo programado en [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) se ejecuta, no modifica directamente el código fuente de la página web sino que el [DOM](https://es.wikipedia.org/wiki/Document_Object_Model) de la misma. Uno puede seguirle la pista a esta ejecución mediante la [Consola de JavaScript](https://transferwise.com/es/help/article/2247654/tecnico-navegador/como-abrir-la-consola-de-tu-navegador) que incluyen los navegadores.
 
-En programación, una variable está formada por un espacio en el sistema de almacenaje (memoria principal del computador) y un identificador asociado a dicho espacio. Este espacio contendrá una cantidad conocida o desconocida de datos, que pueden ir variando en la medida que el programa se ejecuta (y esta es la razón del nombre).
+JavaScript ofrece objetos como [Date](https://www.w3schools.com/jsref/jsref_obj_date.asp) y [Math](https://www.w3schools.com/jsref/jsref_obj_math.asp), además de operadores, estructuras de control, y sentencias. Entre todo esto, examinaremos lo que sea justo y necesario para trabajar con datos. 
+
+Para partir, revisemos las variables en JavaScript; en programación, una variable está formada por un espacio en el sistema de almacenaje (memoria principal del computador) y un identificador asociado a dicho espacio. Este espacio contendrá una cantidad conocida o desconocida de datos, que pueden ir variando en la medida que el programa se ejecuta (y esta es la razón del nombre).
 
 En JavaScript, el identificador de la variable se define después de `var` y un espacio. Así, por ejemplo, puedo crear una variable fau escribiendo `var fau`. 
 
-En esta variable puedo almacenar distintos tipos de datos; según lo almacenado, corresponde seguir ciertas reglas:
+Mi variable se llama `fau`. Este nombre se ajusta a las siguiente reglas: No tiene números, acentos, tildes ni espacios, y es un palabra que no está [reservada por el lenguaje](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Palabras_Reservadas). La variable `fau` puede almacenar distintos tipos de datos. Según lo almacenado, corresponde seguir otras reglas:
 
 **Para un valor entero (integer) o un valor de punto flotante (float)**, después de la asignación (=) se ingresa solamente el número. `var fau = 84;`
 
@@ -90,9 +92,9 @@ crisis: true
 
 A un objeto le podemos pedir cada cosa por su nombre. Así, por ejemplo, "Portugal 84" es lo que nos entrega si le pedimos `fau.direccion`. "Geografía" es lo que nos entrega si le pedimos `fau.carreras[2]`.
 
-Como indiqué más arriba, JSON se basa en los objetos de JavaScript. Por eso, cuando necesitemos un dato particular, tenemos que pedirlo por su nombre y/o posición.
+Como indiqué más arriba, JSON se basa en los objetos de JavaScript. Por eso, cuando necesitemos un dato particular de un JSON, tenemos que pedirlo por su nombre y/o posición.
 
-A continuación transcribo un [JSON que pueden encontrar en línea](http://api.open-notify.org/astros.json). Este JSON indica cuáles son las personas que se encuentran en el espacio:
+A continuación transcribo un [JSON que pueden encontrar actualizado en línea](http://api.open-notify.org/astros.json). Este JSON tiene el dato de las personas que se encuentran en el espacio:
 
 ```
 {
@@ -132,7 +134,7 @@ Si necesito conocer el número de las personas en el espacio, puedo:
 - pedir el contenido del `number`, o 
 - pedir la cantidad de contenidos en el arreglo `people`.
 
-¿Cómo hacer esas peticiones? Eso es lo que revisaremos en las páginas incluidas en el repositorio, donde tenemos JavaScript incluido en las distintas páginas HTML.
+¿Cómo hacer esas peticiones? Eso es lo que revisaremos en las páginas incluidas en el repositorio.
 
 - - - - - 
 
