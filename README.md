@@ -56,7 +56,7 @@ error, grave, clase
 
 [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas) es la simplificación de una hoja de cálculo, en donde encontrarían datos en filas y columnas. En CSV, cada coma representa el fin de una columna y los saltos de línea son las filas.
 
-[JSON](https://www.json.org/json-es.html) se parece mucho a un objeto en JavaScript (tanto que le debe su nombre). Acá es necesario extender la explicación, porque aún no nos asomamos a JavaScript ni menos a la manera en que se escriben sus variables.
+[JSON](https://www.json.org/json-es.html) se parece mucho a un objeto en JavaScript (tanto que le debe su nombre). Acá es necesario extender la explicación, porque aún no nos asomamos a JavaScript ni a la manera en que se escriben sus variables.
 
 ### JavaScript
 
