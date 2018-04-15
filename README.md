@@ -18,40 +18,62 @@ Los fracasos, desamores y las mentiras
 En JSON, podría escribir mi listado así:
 
 ```
-{
-	"errores": {
-		"menores": [
-			["la herida, detallada", "la herida, detallada"],
-			["el fracaso, detallado", "el fracaso, detallado""],
-			["el desamor, detallado", "el desamor, detallado"],
-			["la mentira, detallada", "la mentira, detallada"]
-		],
-		"peores": [
-			["la herida, detallada", "la herida, detallada"],
-			["el fracaso, detallado", "el fracaso, detallado""],
-			["el desamor, detallado", "el desamor, detallado"],
-			["la mentira, detallada", "la mentira, detallada"]
-		]
-	}
-}
+[
+   {
+      "error":"Lorem ipsum dolor sit amet",
+      "gravedad":"menor",
+      "clase":"herida"
+   },
+   {
+      "error":"Donec at ipsum eu ante pretium",
+      "gravedad":"menor",
+      "clase":"fracaso"
+   },
+   {
+      "error":"Fusce maximus dui eu rutrum",
+      "gravedad":"menor",
+      "clase":"desamor"
+   },
+   {
+      "error":"Phasellus pharetra orci in maximus",
+      "gravedad":"menor",
+      "clase":"mentira"
+   },
+   {
+      "error":"Mauris pharetra tortor eget molestie",
+      "gravedad":"peor",
+      "clase":"herida"
+   },
+   {
+      "error":"In feugiat lacus eu mauris venenatis",
+      "gravedad":"peor",
+      "clase":"fracaso"
+   },
+   {
+      "error":"Nam fringilla mauris maximus convallis",
+      "gravedad":"peor",
+      "clase":"desamor"
+   },
+   {
+      "error":"Cras tincidunt mauris quis tempor",
+      "gravedad":"peor",
+      "clase":"mentira"
+   }
+]
 ```
 
 En CSV, podría escribirlo así: 
 
 ```
-error, grave, clase
-"El error, detallado",false,herida
-"El error, detallado",false,herida
-"El error, detallado",false,fracaso
-"El error, detallado",false,fracaso
-"El error, detallado",false,desamor
-"El error, detallado",false,desamor
-"El error, detallado",true,herida
-"El error, detallado",true,herida
-"El error, detallado",true,fracaso
-"El error, detallado",true,fracaso
-"El error, detallado",true,desamor
-"El error, detallado",true,desamor
+error,gravedad,clase
+"Lorem ipsum dolor sit amet",menor,herida
+"Donec at ipsum eu ante pretium",menor,fracaso
+"Fusce maximus dui eu rutrum",menor,desamor
+"Phasellus pharetra orci in maximus",menor,mentira
+"Mauris pharetra tortor eget molestie",peor,herida
+"In feugiat lacus eu mauris venenatis",peor,fracaso
+"Nam fringilla mauris maximus convallis",peor,desamor
+"Cras tincidunt mauris quis tempor",peor,mentira
 ```
 
 [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas) es la simplificación de una hoja de cálculo, en donde encontrarían datos en filas y columnas. En CSV, cada coma representa el fin de una columna y los saltos de línea son las filas.
