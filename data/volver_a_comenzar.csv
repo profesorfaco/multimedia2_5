@@ -1,17 +1,17 @@
-error,grave,clase
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit",0,herida
-"Sed eget elit ut enim cursus iaculis",0,herida
-"Donec at ipsum eu ante pretium lacinia",0,fracaso
-"Nunc efficitur libero placerat fringilla facilisis",0,fracaso
-"Fusce maximus dui eu rutrum iaculis",0,desamor
-"Quisque in risus non sem sagittis hendrerit",0,desamor
-"Phasellus pharetra orci in maximus semper",0,mentira
-"Aliquam gravida tellus vel efficitur pulvinar",0,mentira
-"Mauris pharetra tortor eget molestie feugiat",1,herida
-"In non sapien eu augue porta malesuada",1,herida
-"In feugiat lacus eu mauris venenatis vulputate",1,fracaso
-"Ut imperdiet nisl non eros pulvinar molestie",1,fracaso
-"Nam fringilla mauris maximus convallis faucibus",1,desamor
-"Duis gravida sapien nec auctor bibendum",1,desamor
-"Cras tincidunt mauris quis tempor consequat",1,mentira
-"Etiam euismod dui at euismod pharetra",1,mentira
+error,gravedad,clase
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit",menor,herida
+"Sed eget elit ut enim cursus iaculis",menor,herida
+"Donec at ipsum eu ante pretium lacinia",menor,fracaso
+"Nunc efficitur libero placerat fringilla facilisis",menor,fracaso
+"Fusce maximus dui eu rutrum iaculis",menor,desamor
+"Quisque in risus non sem sagittis hendrerit",menor,desamor
+"Phasellus pharetra orci in maximus semper",menor,mentira
+"Aliquam gravida tellus vel efficitur pulvinar",menor,mentira
+"Mauris pharetra tortor eget molestie feugiat",peor,herida
+"In non sapien eu augue porta malesuada",peor,herida
+"In feugiat lacus eu mauris venenatis vulputate",peor,fracaso
+"Ut imperdiet nisl non eros pulvinar molestie",peor,fracaso
+"Nam fringilla mauris maximus convallis faucibus",peor,desamor
+"Duis gravida sapien nec auctor bibendum",peor,desamor
+"Cras tincidunt mauris quis tempor consequat",peor,mentira
+"Etiam euismod dui at euismod pharetra",peor,mentira
